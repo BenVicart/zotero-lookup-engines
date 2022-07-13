@@ -2,7 +2,7 @@
 {
     "_name": "Université Sorbonne-Nouvelle",
     "_alias": "Université Sorbonne-Nouvelle",
-    "_urlTemplate": "https://catalogue-bsn.sorbonne-nouvelle.fr/discovery/search?query=any,contains,{z:title}+{rft:aufirst?}+{rft:aulast?}+{z:ISBN?}+{rft:jtitle?}+{z:ISSN?}+{z:DOI?}&tab=Everything&search_scope=MyInst_and_CI&vid=33USPC_USN:USN&offset=0",
+    "_urlTemplate": "https://catalogue-bsn.sorbonne-nouvelle.fr/discovery/search?query=any,contains,{rft:aufirst?}+{rft:aulast?}+{rft:ISBN?}+{rft:jtitle?}+{rft:DOI?}&tab=Everything&search_scope=MyInst_and_CI&vid=33USPC_USN:USN&offset=0",
     "_description": "Recherche dans le catalogue de la Bibliothèque Sorbonne Nouvelle.",
     "_urlParams": [],
     "_hidden": false,
